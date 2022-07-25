@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: hellodjango-service
+spec:
+  type: ClusterIP
+  ports:
+    - port: 80
+  selector:
+    app: hellodjango
