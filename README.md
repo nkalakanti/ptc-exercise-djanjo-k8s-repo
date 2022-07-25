@@ -4,7 +4,7 @@ This is a sample django project to Practice Docker, Kubernetes, HELM, EKS and Ar
 
 Requirments:
 
-1- [Docker Desctop](https://docs.docker.com/desktop/install/windows-install/)
+1- [Docker Desktop](https://docs.docker.com/desktop/install/windows-install/)
 
 2- [Kind For Kubernetes Testing](https://github.com/kubernetes-sigs/kind/releases/tag/v0.14.0)
 
